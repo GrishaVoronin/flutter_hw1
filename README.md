@@ -29,9 +29,9 @@ KotoTinder - это мобильное приложение в стиле Tinder
 - Язык программирования: Dart
 - Фреймворк: Flutter
 - Управление состоянием: StatefulWidget
-- API: The Cat API
+- API: https://thecatapi.com
 - Обработка изображений: cached_network_image
 
-### путь до apk файла
+## Путь до apk файла
 
 [APK файл](build/app/outputs/flutter-apk/app-release.apk)
