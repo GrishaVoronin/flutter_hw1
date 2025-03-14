@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:3:5-34:19
+INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:3:5-34:19
+MERGED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92ae562571518cba8468b78bade58b05/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92ae562571518cba8468b78bade58b05/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92a2169b5b2674c8bbe10e1b1d80da0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92a2169b5b2674c8bbe10e1b1d80da0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:4:9-35
+	android:icon
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:6:9-43
+	android:name
+		INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:5:9-42
+manifest
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:1:1-46:12
+MERGED from [:path_provider_android] /Users/gorgio/Documents/proga/kototinder/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite_android] /Users/gorgio/Documents/proga/kototinder/build/sqflite_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/55520e4df2220e27f13f0bbb7467d11a/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/919fbf8017b1927c424efcc6f3eea7d6/transformed/window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/4bdd8334f9fd0cbd9a349ef111117910/transformed/activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/d6334635279cb43af07c2144a95c2be9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ddd5e7b38041965968ff0c456e5ef322/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/425d832576bbabccc5270396900a4491/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/e0eede8414d1ee0e5f236daeb1a2e59a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/1b91be3af319ede480d7185430690ee1/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/e2e21678784b3eef6b33f576b1691a56/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ac46e3757766033f0de4c7793859f273/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/399e00c258a157ae7f0689a9cfea92b0/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/f85bb1d55996e5c6bcd395509e391ec9/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/c092edbccc16347970ed4f22e8da111a/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/08bf7f26258345e6319afb7560b81d77/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92ae562571518cba8468b78bade58b05/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/22b639d90f204afd7e43f6d397d50949/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ff849810dfe34a0ab790c402787c149e/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92a2169b5b2674c8bbe10e1b1d80da0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ccaaf8ba0ff17d4bbcf5fc9064ae7a64/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/d42c221d5bb2aa4193fad7d8833ffeab/transformed/core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/2b371de41139abc1fa7bf1c8d14449f9/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/gorgio/.gradle/caches/8.10.2/transforms/51f2e467807ef5e380621dbcb0c2c243/transformed/relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:2:5-66
+	android:name
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:2:22-64
+queries
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:40:5-45:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:41:9-44:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:42:13-72
+	android:name
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:42:21-70
+data
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:43:13-50
+	android:mimeType
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:43:19-48
+activity#com.example.kototinder.MainActivity
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:7:9-28:20
+	android:launchMode
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:10:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:14:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:15:13-55
+	android:exported
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:9:13-36
+	android:configChanges
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:13:13-163
+	android:theme
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:12:13-47
+	android:taskAffinity
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:20:13-23:17
+	android:resource
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:22:15-52
+	android:name
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:21:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:26:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:31:9-33:33
+	android:value
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:33:13-30
+	android:name
+		ADDED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml:32:13-44
+uses-sdk
+INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml
+MERGED from [:path_provider_android] /Users/gorgio/Documents/proga/kototinder/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/gorgio/Documents/proga/kototinder/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/gorgio/Documents/proga/kototinder/build/sqflite_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/gorgio/Documents/proga/kototinder/build/sqflite_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/55520e4df2220e27f13f0bbb7467d11a/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/55520e4df2220e27f13f0bbb7467d11a/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/919fbf8017b1927c424efcc6f3eea7d6/transformed/window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/919fbf8017b1927c424efcc6f3eea7d6/transformed/window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/4bdd8334f9fd0cbd9a349ef111117910/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/4bdd8334f9fd0cbd9a349ef111117910/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/d6334635279cb43af07c2144a95c2be9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/d6334635279cb43af07c2144a95c2be9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ddd5e7b38041965968ff0c456e5ef322/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ddd5e7b38041965968ff0c456e5ef322/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/425d832576bbabccc5270396900a4491/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/425d832576bbabccc5270396900a4491/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/e0eede8414d1ee0e5f236daeb1a2e59a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/e0eede8414d1ee0e5f236daeb1a2e59a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/1b91be3af319ede480d7185430690ee1/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/1b91be3af319ede480d7185430690ee1/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/e2e21678784b3eef6b33f576b1691a56/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/e2e21678784b3eef6b33f576b1691a56/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ac46e3757766033f0de4c7793859f273/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ac46e3757766033f0de4c7793859f273/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/399e00c258a157ae7f0689a9cfea92b0/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/399e00c258a157ae7f0689a9cfea92b0/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/f85bb1d55996e5c6bcd395509e391ec9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/f85bb1d55996e5c6bcd395509e391ec9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/c092edbccc16347970ed4f22e8da111a/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/c092edbccc16347970ed4f22e8da111a/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/08bf7f26258345e6319afb7560b81d77/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/08bf7f26258345e6319afb7560b81d77/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92ae562571518cba8468b78bade58b05/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92ae562571518cba8468b78bade58b05/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/22b639d90f204afd7e43f6d397d50949/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/22b639d90f204afd7e43f6d397d50949/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ff849810dfe34a0ab790c402787c149e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ff849810dfe34a0ab790c402787c149e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92a2169b5b2674c8bbe10e1b1d80da0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92a2169b5b2674c8bbe10e1b1d80da0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ccaaf8ba0ff17d4bbcf5fc9064ae7a64/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/ccaaf8ba0ff17d4bbcf5fc9064ae7a64/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/d42c221d5bb2aa4193fad7d8833ffeab/transformed/core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/d42c221d5bb2aa4193fad7d8833ffeab/transformed/core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/2b371de41139abc1fa7bf1c8d14449f9/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/2b371de41139abc1fa7bf1c8d14449f9/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/gorgio/.gradle/caches/8.10.2/transforms/51f2e467807ef5e380621dbcb0c2c243/transformed/relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/gorgio/.gradle/caches/8.10.2/transforms/51f2e467807ef5e380621dbcb0c2c243/transformed/relinker-1.4.5/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gorgio/Documents/proga/kototinder/android/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/9267092e28b45c9534bb2f63bb83ee54/transformed/window-1.2.0/AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.kototinder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.kototinder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/8cf478dec41eed746328fa8046755ba2/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92ae562571518cba8468b78bade58b05/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/92ae562571518cba8468b78bade58b05/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/gorgio/.gradle/caches/8.10.2/transforms/10f59aca448375b18e2c39bac9a9f7ba/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/gorgio/.gradle/caches/8.10.2/transforms/d37f6f4decb997f2e3aa9d346c7000db/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

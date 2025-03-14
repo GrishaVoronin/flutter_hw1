@@ -1,0 +1,4 @@
+#Fri Mar 14 22:00:19 MSK 2025
+base.0=/Users/gorgio/Documents/proga/kototinder/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
